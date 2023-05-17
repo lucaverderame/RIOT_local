@@ -22,7 +22,7 @@
 #include "cond.h"
 #include "irq.h"
 #include "mutex.h"
-#include "thread.h"
+//#include "thread.h"
 
 #define ENABLE_DEBUG 0
 #include "debug.h"
